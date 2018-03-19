@@ -1,0 +1,19 @@
+
+/* CONF-28415 */
+form.editor .editor-default,
+.editor-fullheight {
+    height: 100%;
+    height: auto\9; /* IE8 */
+}
+
+body.theme-documentation h1#title-heading.with-breadcrumbs img.logo, body.theme-documentation .space-logo img.logo {
+  width: inherit;
+  height: 48px;
+}
+
+.global.logo, .space.logo {
+  border-radius: inherit;
+}
+
+
+
